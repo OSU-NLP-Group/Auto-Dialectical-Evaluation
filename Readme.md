@@ -14,6 +14,7 @@ Put your OpenAI API key in a file called "api_key.txt".
     └── BBH/                           # big-bench-hard (https://arxiv.org/abs/2210.09261)
 
 - ```main.ipynb``` in each sub-directory contains the code and cached evaluation results.
+- Some randomly-sampled failure examples are included in [here](https://docs.google.com/spreadsheets/d/1PaoP2lqxL7qJRq--N3lEQgzgvY8MW2CJ5JFaCbGRaJQ/edit?usp=sharing).
 
 ## Citation
 ```
